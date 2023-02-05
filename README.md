@@ -1,4 +1,6 @@
 # CourseFollowed
-A repo to keep projects from tutorials followed
+A repo to keep a tutorial project.
 
-First project is a Bootstrap  only made website for a tech very small company
+The project is Bootstrap  only made website. The whole page is made throught copying and pasting basic components drectly from the BootStrap website.
+
+There are still three pages to add.
